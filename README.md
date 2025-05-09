@@ -31,9 +31,12 @@ Als eerste leerdoelen had ik veel leerdoelen met specifieke doelen, zoals het to
 ### Drie persoonlijke leerdoelen voor meesterproef
 
 1 Alles leren over er komt kijken bij goed en efficient samenwerken met coderen. (Waar moet je op letten? Hoe verdeel je de taken/wie doet wat? Werken met gitHub)
+
 2 Mijn ‘handelsmerk’ vinden en toepassen, sluit aan op ‘mijn eigen meer professionele manier van coderen ontwikkelen’ maar dan wat mijn codeerprojecten kenmerken ontdekken/onderzoeken(zowel visueel als UX en interactie en technieken)
+
 3 Meer denken aan de gebruikerservaring, verder dan alleen flow(wat vaak al als erg prettig wordt ervaren in mij werk) met progressive enhancement en accessibility
 (Prefers reduced motion etc.) Meer denken aan de gebruikers voorkeuren
+
 4 Productiever te werk gaan, op meer momenten aan een opdracht werken en dingen meteen afronden en eerder beginnen. In plaats van op het einde —> aantonen met planning en board bv, koppelen aan code
 
 ## Wat ik van mijn Weekly nerd blog ga maken
